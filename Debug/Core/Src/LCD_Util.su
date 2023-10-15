@@ -1,0 +1,9 @@
+LCD_Util.c:14:6:set_Characters	8	static
+LCD_Util.c:25:6:show_characters	24	static
+LCD_Util.c:30:6:set_start_page	8	static
+LCD_Util.c:38:6:menupage	8	static
+LCD_Util.c:54:6:set_game_page	8	static
+LCD_Util.c:59:6:set_change_name_page	8	static
+LCD_Util.c:65:6:set_help_page	8	static
+LCD_Util.c:71:6:set_about_page	8	static
+LCD_Util.c:77:6:set_end_page	8	static

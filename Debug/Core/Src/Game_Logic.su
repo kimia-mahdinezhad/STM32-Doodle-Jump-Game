@@ -1,0 +1,10 @@
+Game_Logic.c:22:6:player_dead	16	static
+Game_Logic.c:35:6:player_right	16	static
+Game_Logic.c:47:6:player_left	16	static
+Game_Logic.c:59:6:generate_map	8	static
+Game_Logic.c:78:6:possible_jump	4	static
+Game_Logic.c:97:6:player_up	16	static
+Game_Logic.c:107:6:player_down	16	static
+Game_Logic.c:129:6:shoot	16	static
+Game_Logic.c:146:6:update_position	8	static
+Game_Logic.c:163:6:intialize	8	static
